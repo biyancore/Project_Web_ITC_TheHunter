@@ -1,2 +1,13 @@
-# Project_Web_ITC_TheHunter
-Briliant Priscilla (123240068)
+# ITC Landing Page
+
+## Teknologi
+- HTML
+- CSS (Custom + Bootstrap)
+- JavaScript
+
+## Fitur
+- Responsive design
+- Filter & search division
+- Favorite division (localStorage)
+- Form validation
+- Interactive UI
